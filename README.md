@@ -30,7 +30,7 @@ This Tableau dashboard provides an in-depth analysis of SuperStore sales data ac
 ## Getting Started
 
 1. **Download Tableau Public:** If you don’t have Tableau, download [Tableau Public](https://public.tableau.com/).
-2. **Open Dashboard:** Access the project on [Tableau Public](https://public.tableau.com/shared/7CY2QND83?:display_count=n&:origin=viz_share_link) or use the local `.twbx` file.
+2. **Open Dashboard:** Access the project on [Git](https://ishansrivastav.github.io/SuperStore_Sales_Dashboard/) or [Tableau Public](https://public.tableau.com/shared/GGQ29DBF5?:display_count=n&:origin=viz_share_link) or use the local `.twbx` file.
 3. **Explore:** Use filters to adjust the year, month, and category view.
 
 ## Prerequisites
