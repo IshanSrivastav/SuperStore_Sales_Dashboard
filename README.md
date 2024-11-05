@@ -9,7 +9,7 @@ This Tableau dashboard provides an in-depth analysis of SuperStore sales data ac
 
 ## Data Source
 
-- **Dataset:** [Superstore sales.csv](Superstore%20sales.xlsx)
+- **Dataset:** [Superstore sales.xlsx](Superstore%20sales.xlsx)
 - **Rows:** 9994
 - **Columns:** 21
 - **Fields Include:** Order Date, Sales, Profit, Discount, Product Category, Region, and State.
