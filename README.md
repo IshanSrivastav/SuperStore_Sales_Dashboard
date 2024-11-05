@@ -38,6 +38,6 @@ This Tableau dashboard provides an in-depth analysis of SuperStore sales data ac
 - **Tableau Public/Professional**
 - **Python (optional)** for any data preprocessing with `Pandas` or `NumPy`
 
----
+# Contributing
 
-For any questions or feedback, please feel free to reach out. Happy analyzing!
+**Contributions are welcome! If you have ideas for enhancements or spot any issues, feel free to submit a pull request.**
